@@ -7,4 +7,4 @@ It's literally the same as E-boi's, except the radius to make it look more like 
 ##
 example:
 
-![example-image](https://user-images.githubusercontent.com/54505527/105359520-8c921180-5bc5-11eb-9eab-8189eca0152d.png)
+![example-image](https://user-images.githubusercontent.com/60262101/140693885-bfc8708f-f933-4dc6-994a-45486b8b4c9b.jpeg)
